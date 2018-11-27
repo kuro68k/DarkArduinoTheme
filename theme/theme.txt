@@ -48,7 +48,7 @@ editor.fgcolor = #d9d9d9
 editor.bgcolor = #202020
 
 # highlight for the current line
-editor.linehighlight.color=#333333
+editor.linehighlight.color=#101010
 # highlight for the current line
 editor.linehighlight=true
 
@@ -59,7 +59,7 @@ editor.caret.color = #a0a0a0
 editor.external.bgcolor = #c8d2dc
 
 # selection color
-editor.selection.color = #dd8800
+editor.selection.color = #446600
 
 # area that's not in use by the text (replaced with tildes)
 editor.invalid.style = #7e7e7e,bold
