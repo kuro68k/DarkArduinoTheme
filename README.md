@@ -8,7 +8,8 @@ Revised for Arduino version 1.8.5+, not tested with earlier versions.
 **Changes**
 * Line highlight made darker than normal background rather than lighter to increase contrast in the work area.
 * Selection colour was very bright making underlying text almost unreadable, so made it much darker green instead.
-- kuro68k 2018/11/27
+
+kuro68k 2018/11/27
 
 
 ### INSTALLATION  
